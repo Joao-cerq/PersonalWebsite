@@ -1,0 +1,23 @@
+body{
+    background-color: lightgoldenrodyellow;
+}
+
+h1{
+    color: rgb(170, 130, 30);
+}
+
+h2{
+    color: rgb(140, 107, 24);
+}
+
+h3{
+    color: rgb(140, 107, 24);
+}
+
+hr{
+    width: 5%;
+    border-color: goldenrod;
+    border-width: 5px;
+    border-spacing: 5px;
+    border-style: dotted none none;
+}
